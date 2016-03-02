@@ -1,3 +1,3 @@
 letakkan hasil screenshot disini
 
-screenshot hanya berupa output program saja
+(screenshot hanya berupa output program saja)
